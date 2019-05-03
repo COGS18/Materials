@@ -1,2 +1,4 @@
 # Ignore notebook checkpoint files
 .ipynb_checkpoints/*
+Check-In.ipynb
+stw.py
