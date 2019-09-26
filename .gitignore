@@ -2,3 +2,8 @@
 .ipynb_checkpoints/*
 Check-In.ipynb
 stw.py
+.DS_Store
+Untitled.ipynb
+__pycache__/
+my_module/
+remote.py
