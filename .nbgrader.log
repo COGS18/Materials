@@ -123,3 +123,38 @@
 [NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
 [NotebookApp | INFO] Replaying 6 buffered messages
 [NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Starting buffering for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Starting buffering for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8324ceee-18b2-40c1-a687-41ce904a66f4) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4b489b37-60ba-4078-a93c-d0743faf7164) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 17.25ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1): No such file or directory: 06-DataTypes.css
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1) 1.26ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.51ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1): No such file or directory: 06-DataTypes.css
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1) 1.79ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.65ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1): No such file or directory: 06-DataTypes.css
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1) 1.59ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Kernel restarted: 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
