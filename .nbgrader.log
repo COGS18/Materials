@@ -1,0 +1,125 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/shannonellis/Desktop/Teaching/COGS18/Materials
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=09353a8631631315e84fb8cc725c193ff2cf89677c697471
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=09353a8631631315e84fb8cc725c193ff2cf89677c697471
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/shannonellis/Library/Jupyter/runtime/nbserver-37338-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=09353a8631631315e84fb8cc725c193ff2cf89677c697471
+     or http://127.0.0.1:8888/?token=09353a8631631315e84fb8cc725c193ff2cf89677c697471
+[NotebookApp | INFO] Kernel started: 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 98408491-e1ed-4d15-9e47-90c5a030220c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 98408491-e1ed-4d15-9e47-90c5a030220c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Starting buffering for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Starting buffering for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 98408491-e1ed-4d15-9e47-90c5a030220c) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Starting buffering for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Starting buffering for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 98408491-e1ed-4d15-9e47-90c5a030220c) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 8.76ms referer=http://localhost:8888/notebooks/05-Conditionals.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/05-Conditionals.css (::1): No such file or directory: 05-Conditionals.css
+[NotebookApp | WARNING] 404 GET /notebooks/05-Conditionals.css (::1) 1.75ms referer=http://localhost:8888/notebooks/05-Conditionals.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/04-Operators.css (::1): No such file or directory: 04-Operators.css
+[NotebookApp | WARNING] 404 GET /notebooks/04-Operators.css (::1) 1.70ms referer=http://localhost:8888/notebooks/04-Operators.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.70ms referer=http://localhost:8888/notebooks/04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Starting buffering for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Starting buffering for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 98408491-e1ed-4d15-9e47-90c5a030220c) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Starting buffering for 98408491-e1ed-4d15-9e47-90c5a030220c:5a8c942840a04f8e880743aac1fa6c7a
+[NotebookApp | INFO] Kernel shutdown: 98408491-e1ed-4d15-9e47-90c5a030220c
+[NotebookApp | INFO] Saving file at /04-Operators.ipynb
+[NotebookApp | INFO] Starting buffering for 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1:dc0df8c56d7441f3873bc134772a9840
+[NotebookApp | INFO] Kernel shutdown: 23d1f2a4-bb87-4e57-aff0-bdcafa96c1f1
+[NotebookApp | INFO] Kernel started: 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Kernel started: 4b489b37-60ba-4078-a93c-d0743faf7164
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4b489b37-60ba-4078-a93c-d0743faf7164) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Kernel started: 8324ceee-18b2-40c1-a687-41ce904a66f4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8324ceee-18b2-40c1-a687-41ce904a66f4) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Starting buffering for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Starting buffering for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4b489b37-60ba-4078-a93c-d0743faf7164) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8324ceee-18b2-40c1-a687-41ce904a66f4) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Starting buffering for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Starting buffering for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8324ceee-18b2-40c1-a687-41ce904a66f4) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4b489b37-60ba-4078-a93c-d0743faf7164) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Starting buffering for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Starting buffering for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4b489b37-60ba-4078-a93c-d0743faf7164) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 4b489b37-60ba-4078-a93c-d0743faf7164:eb0b3ef665bf489b80345a67ab8db6d0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8324ceee-18b2-40c1-a687-41ce904a66f4) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8324ceee-18b2-40c1-a687-41ce904a66f4:f8b7af67702d4ee8a7957f4f3c0733f4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Kernel restarted: 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
