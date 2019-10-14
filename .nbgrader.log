@@ -294,3 +294,390 @@
 [NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
 [NotebookApp | INFO] Replaying 6 buffered messages
 [NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Kernel started: 3d480b42-0f61-4cdd-84cf-85a15a3a1344
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3d480b42-0f61-4cdd-84cf-85a15a3a1344) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 3d480b42-0f61-4cdd-84cf-85a15a3a1344:bd29d50defa04b7e8a13e43f8086ae7f
+[NotebookApp | INFO] Kernel shutdown: 3d480b42-0f61-4cdd-84cf-85a15a3a1344
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.81ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1): No such file or directory: 06-DataTypes.css
+[NotebookApp | WARNING] 404 GET /notebooks/06-DataTypes.css (::1) 1.52ms referer=http://localhost:8888/notebooks/06-DataTypes.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/07-Loops.css (::1): No such file or directory: 07-Loops.css
+[NotebookApp | WARNING] 404 GET /notebooks/07-Loops.css (::1) 1.39ms referer=http://localhost:8888/notebooks/07-Loops.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.72ms referer=http://localhost:8888/notebooks/07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.80ms referer=http://localhost:8888/notebooks/07-Loops.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/07-Loops.css (::1): No such file or directory: 07-Loops.css
+[NotebookApp | WARNING] 404 GET /notebooks/07-Loops.css (::1) 1.47ms referer=http://localhost:8888/notebooks/07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Copying 05-Conditionals.ipynb to 
+[NotebookApp | WARNING] 404 PATCH /api/contents/05-Conditionals-Copy1.ipynb (::1): ../pythonbook/content/02-basics/05-Conditionals-Copy1.ipynb is outside root contents directory
+[NotebookApp | WARNING] ../pythonbook/content/02-basics/05-Conditionals-Copy1.ipynb is outside root contents directory
+[NotebookApp | WARNING] 404 PATCH /api/contents/05-Conditionals-Copy1.ipynb (::1) 4.80ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] delete /05-Conditionals-Copy1.ipynb
+[NotebookApp | WARNING] Notebook A1-Syntax.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 96e8ac00-acf1-4fe2-8d4c-9544eaf627a1
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 96e8ac00-acf1-4fe2-8d4c-9544eaf627a1) to 5.3 (client).
+[NotebookApp | WARNING] Notebook A2-Examples.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3943c47f-e6d8-4de3-9f66-2fce6019068a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3943c47f-e6d8-4de3-9f66-2fce6019068a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /A2-Examples.ipynb
+[NotebookApp | WARNING] Notebook A2-Examples.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /A2-Examples.ipynb
+[NotebookApp | WARNING] Notebook A2-Examples.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Midterm-Review.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7ab065fa-c764-43b6-a208-e2a5aa7f2a35
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7ab065fa-c764-43b6-a208-e2a5aa7f2a35) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 222a33f1-4388-4627-aac9-5ff64841204a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 222a33f1-4388-4627-aac9-5ff64841204a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Midterm-Review.ipynb
+[NotebookApp | WARNING] Notebook Midterm-Review.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /MidtermPractice.ipynb
+[NotebookApp | INFO] Copying MidtermPractice.ipynb to 
+[NotebookApp | INFO] Kernel started: ffffe053-51d1-44b7-b9ed-de8b8df908c0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ffffe053-51d1-44b7-b9ed-de8b8df908c0) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Exam2_Practice.ipynb
+[NotebookApp | INFO] Starting buffering for ffffe053-51d1-44b7-b9ed-de8b8df908c0:55ae9cc275074c96891ea1cd97105724
+[NotebookApp | INFO] Kernel shutdown: ffffe053-51d1-44b7-b9ed-de8b8df908c0
+[NotebookApp | INFO] Saving file at /Exam1_Practice.ipynb
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | WARNING] Notebook Exam1-Review.ipynb is not trusted
+[NotebookApp | INFO] Copying Exam1-Review.ipynb to 
+[NotebookApp | WARNING] Notebook Exam1-Review.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Exam1-Review-Copy1.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Exam1-Review-Copy1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9ef1be17-3da2-4ce6-adb9-9cf489549928
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 9ef1be17-3da2-4ce6-adb9-9cf489549928) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Exam2-Review.ipynb
+[NotebookApp | WARNING] Notebook Exam2-Review.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Exam2-Review.ipynb
+[NotebookApp | WARNING] Notebook Exam2-Review.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 9ef1be17-3da2-4ce6-adb9-9cf489549928:55092994277647f5950d24e3a6ddab5c
+[NotebookApp | INFO] Kernel shutdown: 9ef1be17-3da2-4ce6-adb9-9cf489549928
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | WARNING] Notebook Exam1-Review.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Exam2-Review.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c95d0b97-27a6-4aff-be0b-1e300eed0a69
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c95d0b97-27a6-4aff-be0b-1e300eed0a69) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for c95d0b97-27a6-4aff-be0b-1e300eed0a69:347e8f42408e49da846ad15fdadcf3c6
+[NotebookApp | INFO] Kernel restarted: c95d0b97-27a6-4aff-be0b-1e300eed0a69
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c95d0b97-27a6-4aff-be0b-1e300eed0a69) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for c95d0b97-27a6-4aff-be0b-1e300eed0a69:347e8f42408e49da846ad15fdadcf3c6
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for 7ab065fa-c764-43b6-a208-e2a5aa7f2a35:58ef899bfdf945aeace85fcb512d69a4
+[NotebookApp | INFO] Kernel restarted: 7ab065fa-c764-43b6-a208-e2a5aa7f2a35
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7ab065fa-c764-43b6-a208-e2a5aa7f2a35) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 7ab065fa-c764-43b6-a208-e2a5aa7f2a35:58ef899bfdf945aeace85fcb512d69a4
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | INFO] Kernel started: e6f70f44-fec8-408e-b8cf-7e2e69ddd6f7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e6f70f44-fec8-408e-b8cf-7e2e69ddd6f7) to 5.3 (client).
+[NotebookApp | ERROR] Uncaught exception GET /api/kernels/e6f70f44-fec8-408e-b8cf-7e2e69ddd6f7/channels?session_id=5c52d01571674690b09929b4c2b02681 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/e6f70f44-fec8-408e-b8cf-7e2e69ddd6f7/channels?session_id=5c52d01571674690b09929b4c2b02681', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/websocket.py", line 546, in _run_callback
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 274, in open
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 128, in create_stream
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 33, in wrapped
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/ioloop/manager.py", line 22, in wrapped
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/connect.py", line 563, in connect_stdin
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/connect.py", line 543, in _create_connected_socket
+      File "/anaconda3/lib/python3.6/site-packages/zmq/sugar/context.py", line 146, in socket
+      File "/anaconda3/lib/python3.6/site-packages/zmq/sugar/socket.py", line 59, in __init__
+      File "zmq/backend/cython/socket.pyx", line 328, in zmq.backend.cython.socket.Socket.__init__
+    zmq.error.ZMQError: Too many open files
+[NotebookApp | INFO] Starting buffering for e6f70f44-fec8-408e-b8cf-7e2e69ddd6f7:5c52d01571674690b09929b4c2b02681
+[NotebookApp | ERROR] Uncaught exception GET /static/base/images/favicon-busy-1.ico (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/static/base/images/favicon-busy-1.ico', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1592, in _execute
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 326, in wrapper
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2525, in get
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2678, in get_content
+    OSError: [Errno 24] Too many open files: '/anaconda3/lib/python3.6/site-packages/notebook/static/base/images/favicon-busy-1.ico'
+[NotebookApp | ERROR] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1592, in _execute
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 326, in wrapper
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2525, in get
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2678, in get_content
+    OSError: [Errno 24] Too many open files: '/anaconda3/lib/python3.6/site-packages/notebook/static/base/images/favicon-busy-1.ico'
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1112, in send_error
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 588, in write_error
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 518, in render_template
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 514, in get_template
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 830, in get_template
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 804, in _load_template
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/loaders.py", line 113, in load
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/loaders.py", line 171, in get_source
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/utils.py", line 154, in open_if_exists
+    OSError: [Errno 24] Too many open files: '/anaconda3/lib/python3.6/site-packages/notebook/500.html'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Sec-Fetch-Mode": "no-cors",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/08-Encodings.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 GET /static/base/images/favicon-busy-1.ico (::1) 2.36ms referer=http://localhost:8888/notebooks/08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | ERROR] Error while saving file: 08-Encodings.ipynb unable to open database file
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 470, in save
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 492, in check_and_sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 449, in sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 211, in store_signature
+    sqlite3.OperationalError: unable to open database file
+[NotebookApp | WARNING] 500 PUT /api/contents/08-Encodings.ipynb (::1): Unexpected error while saving file: 08-Encodings.ipynb unable to open database file
+[NotebookApp | WARNING] Unexpected error while saving file: 08-Encodings.ipynb unable to open database file
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "21451",
+      "Sec-Fetch-Mode": "cors",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/08-Encodings.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/08-Encodings.ipynb (::1) 7.67ms referer=http://localhost:8888/notebooks/08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | ERROR] Error while saving file: Exam1-Review.ipynb unable to open database file
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 470, in save
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 492, in check_and_sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 449, in sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 207, in store_signature
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 239, in check_signature
+    sqlite3.OperationalError: unable to open database file
+[NotebookApp | WARNING] 500 PUT /api/contents/Exam1-Review.ipynb (::1): Unexpected error while saving file: Exam1-Review.ipynb unable to open database file
+[NotebookApp | WARNING] Unexpected error while saving file: Exam1-Review.ipynb unable to open database file
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "9490",
+      "Sec-Fetch-Mode": "cors",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/Exam1-Review.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/Exam1-Review.ipynb (::1) 19.21ms referer=http://localhost:8888/notebooks/Exam1-Review.ipynb
+[NotebookApp | INFO] Kernel shutdown: e6f70f44-fec8-408e-b8cf-7e2e69ddd6f7
+[NotebookApp | INFO] Kernel started: 60111d48-ab27-4024-997e-550f88062c3f
+[NotebookApp | ERROR] Uncaught exception GET /api/kernels/60111d48-ab27-4024-997e-550f88062c3f/channels?session_id=bd9e6a36fd0e4e6a97ace8a8d34d197c (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/api/kernels/60111d48-ab27-4024-997e-550f88062c3f/channels?session_id=bd9e6a36fd0e4e6a97ace8a8d34d197c', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 137, in request_kernel_info
+        future = kernel._kernel_info_future
+    AttributeError: 'IOLoopKernelManager' object has no attribute '_kernel_info_future'
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1592, in _execute
+        result = yield result
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1141, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 239, in get
+        yield super(ZMQChannelsHandler, self).get(kernel_id=kernel_id)
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1141, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 291, in get
+        yield maybe_future(res)
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1147, in run
+        yielded = self.gen.send(value)
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 223, in pre_get
+        future = self.request_kernel_info()
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 143, in request_kernel_info
+        self.kernel_info_channel = km.connect_shell(self.kernel_id)
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 33, in wrapped
+        r = method(*args, **kwargs)
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/ioloop/manager.py", line 22, in wrapped
+        socket = f(self, *args, **kwargs)
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/connect.py", line 559, in connect_shell
+        return self._create_connected_socket('shell', identity=identity)
+      File "/anaconda3/lib/python3.6/site-packages/jupyter_client/connect.py", line 543, in _create_connected_socket
+        sock = self.context.socket(socket_type)
+      File "/anaconda3/lib/python3.6/site-packages/zmq/sugar/context.py", line 146, in socket
+        s = self._socket_class(self, socket_type, **kwargs)
+      File "/anaconda3/lib/python3.6/site-packages/zmq/sugar/socket.py", line 59, in __init__
+        super(Socket, self).__init__(*a, **kw)
+      File "zmq/backend/cython/socket.pyx", line 328, in zmq.backend.cython.socket.Socket.__init__
+    zmq.error.ZMQError: Too many open files
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "Upgrade",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Upgrade": "websocket",
+      "Origin": "http://localhost:8888",
+      "Sec-Websocket-Version": "13",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\"",
+      "Sec-Websocket-Key": "Ro43RoPhDE+q8GOIFWM2mg==",
+      "Sec-Websocket-Extensions": "permessage-deflate; client_max_window_bits"
+    }
+[NotebookApp | ERROR] 500 GET /api/kernels/60111d48-ab27-4024-997e-550f88062c3f/channels?session_id=bd9e6a36fd0e4e6a97ace8a8d34d197c (::1) 14.81ms referer=None
+[NotebookApp | ERROR] Uncaught exception GET /static/base/images/favicon-busy-1.ico (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='GET', uri='/static/base/images/favicon-busy-1.ico', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1592, in _execute
+        result = yield result
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 326, in wrapper
+        yielded = next(result)
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2525, in get
+        for chunk in content:
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2678, in get_content
+        with open(abspath, "rb") as file:
+    OSError: [Errno 24] Too many open files: '/anaconda3/lib/python3.6/site-packages/notebook/static/base/images/favicon-busy-1.ico'
+[NotebookApp | ERROR] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1592, in _execute
+        result = yield result
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+      File "/anaconda3/lib/python3.6/site-packages/tornado/gen.py", line 326, in wrapper
+        yielded = next(result)
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2525, in get
+        for chunk in content:
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2678, in get_content
+        with open(abspath, "rb") as file:
+    OSError: [Errno 24] Too many open files: '/anaconda3/lib/python3.6/site-packages/notebook/static/base/images/favicon-busy-1.ico'
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1112, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 588, in write_error
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 518, in render_template
+      File "/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 514, in get_template
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 830, in get_template
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 804, in _load_template
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/loaders.py", line 113, in load
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/loaders.py", line 171, in get_source
+      File "/anaconda3/lib/python3.6/site-packages/jinja2/utils.py", line 154, in open_if_exists
+    OSError: [Errno 24] Too many open files: '/anaconda3/lib/python3.6/site-packages/notebook/500.html'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Sec-Fetch-Mode": "no-cors",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/08-Encodings.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 GET /static/base/images/favicon-busy-1.ico (::1) 13.24ms referer=http://localhost:8888/notebooks/08-Encodings.ipynb
+[NotebookApp | INFO] Kernel shutdown: 60111d48-ab27-4024-997e-550f88062c3f
+[NotebookApp | INFO] Starting buffering for 222a33f1-4388-4627-aac9-5ff64841204a:e21fa174cd1549998c12b8ae1b7a674f
+[NotebookApp | INFO] Kernel shutdown: 222a33f1-4388-4627-aac9-5ff64841204a
+[NotebookApp | INFO] Starting buffering for c95d0b97-27a6-4aff-be0b-1e300eed0a69:347e8f42408e49da846ad15fdadcf3c6
+[NotebookApp | INFO] Kernel shutdown: c95d0b97-27a6-4aff-be0b-1e300eed0a69
+[NotebookApp | INFO] Saving file at /Exam2-Review.ipynb
+[NotebookApp | INFO] Saving file at /Exam2-Review.ipynb
+[NotebookApp | WARNING] 404 DELETE /api/sessions/30b7e597-b877-44f6-924b-bd65d9de94ee (::1): Session not found: session_id='30b7e597-b877-44f6-924b-bd65d9de94ee'
+[NotebookApp | WARNING] Session not found: session_id='30b7e597-b877-44f6-924b-bd65d9de94ee'
+[NotebookApp | WARNING] 404 DELETE /api/sessions/30b7e597-b877-44f6-924b-bd65d9de94ee (::1) 1.43ms referer=http://localhost:8888/notebooks/Exam2-Review.ipynb
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | INFO] Starting buffering for 3943c47f-e6d8-4de3-9f66-2fce6019068a:529d278d482241cb8ae43f6f52c8cfdc
+[NotebookApp | INFO] Kernel shutdown: 3943c47f-e6d8-4de3-9f66-2fce6019068a
+[NotebookApp | INFO] Starting buffering for 96e8ac00-acf1-4fe2-8d4c-9544eaf627a1:e6010e2d645745a688dde037fbe509e4
+[NotebookApp | INFO] Kernel shutdown: 96e8ac00-acf1-4fe2-8d4c-9544eaf627a1
+[NotebookApp | INFO] Kernel started: 35980e70-b629-47f3-8870-f4ef4947c999
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 35980e70-b629-47f3-8870-f4ef4947c999) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Starting buffering for 35980e70-b629-47f3-8870-f4ef4947c999:6a3a9b3db17548c2953f2a984bf3b56d
+[NotebookApp | INFO] Kernel shutdown: 35980e70-b629-47f3-8870-f4ef4947c999
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | INFO] Saving file at /Exam1-Review.ipynb
+[NotebookApp | INFO] Starting buffering for 7ab065fa-c764-43b6-a208-e2a5aa7f2a35:58ef899bfdf945aeace85fcb512d69a4
+[NotebookApp | INFO] Kernel shutdown: 7ab065fa-c764-43b6-a208-e2a5aa7f2a35
+[NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
+[NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
+[NotebookApp | INFO] Kernel shutdown: 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3
