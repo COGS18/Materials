@@ -681,3 +681,253 @@
 [NotebookApp | INFO] Saving file at /06-DataTypes.ipynb
 [NotebookApp | INFO] Starting buffering for 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3:8a6963646cef4c6988284945146cf6b6
 [NotebookApp | INFO] Kernel shutdown: 6cdc7816-c405-4d4b-bc5c-c3aa03a530b3
+[NotebookApp | INFO] Kernel started: d22f6f5d-740b-40e4-8d6f-49c17f075671
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Kernel started: a4371d42-4ed7-422a-9727-2c8a4ff186af
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d22f6f5d-740b-40e4-8d6f-49c17f075671) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a4371d42-4ed7-422a-9727-2c8a4ff186af) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Kernel started: 6d69a5be-1f69-4b0c-bff4-4d5ba98003fb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6d69a5be-1f69-4b0c-bff4-4d5ba98003fb) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Saving file at /05-Conditionals.ipynb
+[NotebookApp | INFO] Starting buffering for 6d69a5be-1f69-4b0c-bff4-4d5ba98003fb:bc1be88bd64047fa9558bc0b7d5dea68
+[NotebookApp | INFO] Kernel shutdown: 6d69a5be-1f69-4b0c-bff4-4d5ba98003fb
+[NotebookApp | INFO] Starting buffering for a4371d42-4ed7-422a-9727-2c8a4ff186af:5d040531f61d4066a5184f3e9e9b61d8
+[NotebookApp | INFO] Kernel shutdown: a4371d42-4ed7-422a-9727-2c8a4ff186af
+[NotebookApp | INFO] Kernel started: defcafd9-fbe8-4639-b50e-e9ace995296a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel defcafd9-fbe8-4639-b50e-e9ace995296a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /03-Variables.ipynb
+[NotebookApp | INFO] Starting buffering for defcafd9-fbe8-4639-b50e-e9ace995296a:7d9b35f7e1224e7e8ee30264d1c270f7
+[NotebookApp | INFO] Kernel shutdown: defcafd9-fbe8-4639-b50e-e9ace995296a
+[NotebookApp | INFO] Kernel started: fe9d25c7-ab92-4922-a3c5-74a84638b29a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel fe9d25c7-ab92-4922-a3c5-74a84638b29a) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for fe9d25c7-ab92-4922-a3c5-74a84638b29a:5c39cf49eee648fab1b67dd10b8d0ae7
+[NotebookApp | INFO] Kernel shutdown: fe9d25c7-ab92-4922-a3c5-74a84638b29a
+[NotebookApp | INFO] Kernel started: 1c85b658-c9ee-4acb-b528-2d9b708b4d58
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 1c85b658-c9ee-4acb-b528-2d9b708b4d58) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Saving file at /E1-Answers.ipynb
+[NotebookApp | INFO] Starting buffering for d22f6f5d-740b-40e4-8d6f-49c17f075671:f1db2c6e53554cc080fc1cc8dc3306bc
+[NotebookApp | INFO] Kernel shutdown: d22f6f5d-740b-40e4-8d6f-49c17f075671
+[NotebookApp | INFO] Kernel started: b8a2d1f3-f1f5-4f27-ac99-38fa511a766e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b8a2d1f3-f1f5-4f27-ac99-38fa511a766e) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Kernel started: e0d83443-1fe4-43de-8780-baa09ca2989a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e0d83443-1fe4-43de-8780-baa09ca2989a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | ERROR] Error while saving file: 08-Encodings.ipynb unable to open database file
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 470, in save
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 492, in check_and_sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 449, in sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 211, in store_signature
+    sqlite3.OperationalError: unable to open database file
+[NotebookApp | WARNING] 500 PUT /api/contents/08-Encodings.ipynb (::1): Unexpected error while saving file: 08-Encodings.ipynb unable to open database file
+[NotebookApp | WARNING] Unexpected error while saving file: 08-Encodings.ipynb unable to open database file
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "19775",
+      "Sec-Fetch-Mode": "cors",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/08-Encodings.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/08-Encodings.ipynb (::1) 8.07ms referer=http://localhost:8888/notebooks/08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | ERROR] Error while saving file: 09-FunctionsI.ipynb unable to open database file
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 470, in save
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 492, in check_and_sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 449, in sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 211, in store_signature
+    sqlite3.OperationalError: unable to open database file
+[NotebookApp | WARNING] 500 PUT /api/contents/09-FunctionsI.ipynb (::1): Unexpected error while saving file: 09-FunctionsI.ipynb unable to open database file
+[NotebookApp | WARNING] Unexpected error while saving file: 09-FunctionsI.ipynb unable to open database file
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "20739",
+      "Sec-Fetch-Mode": "cors",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/09-FunctionsI.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/09-FunctionsI.ipynb (::1) 7.51ms referer=http://localhost:8888/notebooks/09-FunctionsI.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | ERROR] Error while saving file: 08-Encodings.ipynb unable to open database file
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 470, in save
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 492, in check_and_sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 449, in sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 211, in store_signature
+    sqlite3.OperationalError: unable to open database file
+[NotebookApp | WARNING] 500 PUT /api/contents/08-Encodings.ipynb (::1): Unexpected error while saving file: 08-Encodings.ipynb unable to open database file
+[NotebookApp | WARNING] Unexpected error while saving file: 08-Encodings.ipynb unable to open database file
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "19775",
+      "Sec-Fetch-Mode": "cors",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/08-Encodings.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/08-Encodings.ipynb (::1) 4.31ms referer=http://localhost:8888/notebooks/08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | ERROR] Error while saving file: 09-FunctionsI.ipynb unable to open database file
+    Traceback (most recent call last):
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 470, in save
+      File "/anaconda3/lib/python3.6/site-packages/notebook/services/contents/manager.py", line 492, in check_and_sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 449, in sign
+      File "/anaconda3/lib/python3.6/site-packages/nbformat/sign.py", line 211, in store_signature
+    sqlite3.OperationalError: unable to open database file
+[NotebookApp | WARNING] 500 PUT /api/contents/09-FunctionsI.ipynb (::1): Unexpected error while saving file: 09-FunctionsI.ipynb unable to open database file
+[NotebookApp | WARNING] Unexpected error while saving file: 09-FunctionsI.ipynb unable to open database file
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "20739",
+      "Sec-Fetch-Mode": "cors",
+      "Origin": "http://localhost:8888",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811",
+      "Sec-Fetch-Site": "same-origin",
+      "Referer": "http://localhost:8888/notebooks/09-FunctionsI.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|1b71b4a9|f726d001fd955fe187f22ccc9667c9a6|1570377811; username-localhost-8888=\"2|1:0|10:1570629710|23:username-localhost-8888|44:MjQxZGFkZDJkY2ZlNDNjOWJjYjZkYTRjMjUzNjI4Mzg=|3e5e43159f4c888a8ce38a53f4e685a2bd724c694972e25216fdbd3a55a2582a\"; username-localhost-8890=\"2|1:0|10:1571073800|23:username-localhost-8890|44:MWVkYzZiNTEzZjNlNGE2MGE4MGYyNDQyMWE1MzUyZmM=|8c45abed8e5588858687bd9a1c1c9baa6c3d4f79746426b36de2ff70569977b1\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/09-FunctionsI.ipynb (::1) 4.47ms referer=http://localhost:8888/notebooks/09-FunctionsI.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | INFO] Starting buffering for e0d83443-1fe4-43de-8780-baa09ca2989a:752066e45d674a2ea52b888438099cda
+[NotebookApp | INFO] Starting buffering for 1c85b658-c9ee-4acb-b528-2d9b708b4d58:afec62487d9d4d0a852e180b278443e7
+[NotebookApp | INFO] Starting buffering for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Starting buffering for b8a2d1f3-f1f5-4f27-ac99-38fa511a766e:275d2a12433c45728bec8b1f61334a11
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e0d83443-1fe4-43de-8780-baa09ca2989a) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e0d83443-1fe4-43de-8780-baa09ca2989a:752066e45d674a2ea52b888438099cda
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 1c85b658-c9ee-4acb-b528-2d9b708b4d58) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 1c85b658-c9ee-4acb-b528-2d9b708b4d58:afec62487d9d4d0a852e180b278443e7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 14fe1e40-48fc-4eb1-87d4-0f341113f63b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 14fe1e40-48fc-4eb1-87d4-0f341113f63b:50dd69180d2846688ad6442f393c3a99
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b8a2d1f3-f1f5-4f27-ac99-38fa511a766e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for b8a2d1f3-f1f5-4f27-ac99-38fa511a766e:275d2a12433c45728bec8b1f61334a11
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Starting buffering for b8a2d1f3-f1f5-4f27-ac99-38fa511a766e:275d2a12433c45728bec8b1f61334a11
+[NotebookApp | INFO] Kernel restarted: b8a2d1f3-f1f5-4f27-ac99-38fa511a766e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b8a2d1f3-f1f5-4f27-ac99-38fa511a766e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for b8a2d1f3-f1f5-4f27-ac99-38fa511a766e:275d2a12433c45728bec8b1f61334a11
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
+[NotebookApp | INFO] Saving file at /08-Encodings.ipynb
+[NotebookApp | INFO] Saving file at /07-Loops.ipynb
