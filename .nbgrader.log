@@ -1189,3 +1189,83 @@
 [NotebookApp | INFO] Kernel shutdown: a0cf5a48-f946-4047-9431-fcf3d39db7b4
 [NotebookApp | INFO] Shutting down on /api/shutdown request.
 [NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/shannonellis/Desktop/Teaching/COGS18/Materials
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=2b1a17d659b905a6657055140502cd3691fb0c0efd6b9b69
+[NotebookApp | INFO]  or http://127.0.0.1:8889/?token=2b1a17d659b905a6657055140502cd3691fb0c0efd6b9b69
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/shannonellis/Library/Jupyter/runtime/nbserver-34487-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=2b1a17d659b905a6657055140502cd3691fb0c0efd6b9b69
+     or http://127.0.0.1:8889/?token=2b1a17d659b905a6657055140502cd3691fb0c0efd6b9b69
+[NotebookApp | INFO] Kernel started: 6e475993-79fa-4fde-81cd-188c186af60d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6e475993-79fa-4fde-81cd-188c186af60d) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 322ef866-11fb-425e-b50a-524578bb83e2
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 322ef866-11fb-425e-b50a-524578bb83e2) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 322ef866-11fb-425e-b50a-524578bb83e2:7afe0183dffa4a068d206a3df30d1e19
+[NotebookApp | INFO] Kernel shutdown: 322ef866-11fb-425e-b50a-524578bb83e2
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Kernel started: 39c56676-e50f-474b-9332-846eec50d32c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 39c56676-e50f-474b-9332-846eec50d32c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Starting buffering for 6e475993-79fa-4fde-81cd-188c186af60d:649b2a43b5944e788a9bfc4f169f620d
+[NotebookApp | INFO] Starting buffering for 39c56676-e50f-474b-9332-846eec50d32c:729152256ca140719e6901fd6b9ff94c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 39c56676-e50f-474b-9332-846eec50d32c) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 39c56676-e50f-474b-9332-846eec50d32c:729152256ca140719e6901fd6b9ff94c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6e475993-79fa-4fde-81cd-188c186af60d) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6e475993-79fa-4fde-81cd-188c186af60d:649b2a43b5944e788a9bfc4f169f620d
+[NotebookApp | INFO] Starting buffering for 6e475993-79fa-4fde-81cd-188c186af60d:649b2a43b5944e788a9bfc4f169f620d
+[NotebookApp | INFO] Kernel shutdown: 6e475993-79fa-4fde-81cd-188c186af60d
+[NotebookApp | INFO] Starting buffering for 39c56676-e50f-474b-9332-846eec50d32c:729152256ca140719e6901fd6b9ff94c
+[NotebookApp | INFO] Kernel shutdown: 39c56676-e50f-474b-9332-846eec50d32c
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/shannonellis/Desktop/Teaching/COGS18/Materials
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=b6537cb75900e3a923f7f4952b062322249390ae8720a41c
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=b6537cb75900e3a923f7f4952b062322249390ae8720a41c
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/shannonellis/Library/Jupyter/runtime/nbserver-47726-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=b6537cb75900e3a923f7f4952b062322249390ae8720a41c
+     or http://127.0.0.1:8888/?token=b6537cb75900e3a923f7f4952b062322249390ae8720a41c
+[NotebookApp | INFO] Kernel started: d20ac4dd-3cab-49d7-92f3-3723a0e5e1b5
+[NotebookApp | INFO] 302 GET /notebooks/img/study_abroad.JPG (::1) 1.68ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d20ac4dd-3cab-49d7-92f3-3723a0e5e1b5) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 8373e7da-b1a3-491a-ab9b-8de41838938a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8373e7da-b1a3-491a-ab9b-8de41838938a) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 0a26abe1-88d7-4c16-84e9-9c8bf3f64a3c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0a26abe1-88d7-4c16-84e9-9c8bf3f64a3c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Saving file at /11-FunctionsII.ipynb
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Starting buffering for 8373e7da-b1a3-491a-ab9b-8de41838938a:6cccd762669146d18ce7d385a9a8401f
+[NotebookApp | INFO] Kernel restarted: 8373e7da-b1a3-491a-ab9b-8de41838938a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8373e7da-b1a3-491a-ab9b-8de41838938a) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8373e7da-b1a3-491a-ab9b-8de41838938a:6cccd762669146d18ce7d385a9a8401f
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Starting buffering for 8373e7da-b1a3-491a-ab9b-8de41838938a:6cccd762669146d18ce7d385a9a8401f
+[NotebookApp | INFO] Kernel restarted: 8373e7da-b1a3-491a-ab9b-8de41838938a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8373e7da-b1a3-491a-ab9b-8de41838938a) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8373e7da-b1a3-491a-ab9b-8de41838938a:6cccd762669146d18ce7d385a9a8401f
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | INFO] Saving file at /09-FunctionsI.ipynb
+[NotebookApp | INFO] Saving file at /10-Algorithms.ipynb
