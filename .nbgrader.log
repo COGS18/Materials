@@ -1780,3 +1780,104 @@
 [NotebookApp | INFO] Restoring connection for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
 [NotebookApp | INFO] Replaying 6 buffered messages
 [NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Kernel started: 6e08ec52-26dc-4eab-b635-4e4732a146e6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6e08ec52-26dc-4eab-b635-4e4732a146e6) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 400c5070-ef9c-454f-a4f8-0e2c40e862e5
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 400c5070-ef9c-454f-a4f8-0e2c40e862e5) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 400c5070-ef9c-454f-a4f8-0e2c40e862e5:9899c6e95d4848b8becd9ef23c7d109d
+[NotebookApp | INFO] Kernel shutdown: 400c5070-ef9c-454f-a4f8-0e2c40e862e5
+[NotebookApp | INFO] Starting buffering for 6e08ec52-26dc-4eab-b635-4e4732a146e6:bd209dd78ffc4bcb8c5bf5420879eb95
+[NotebookApp | INFO] Kernel shutdown: 6e08ec52-26dc-4eab-b635-4e4732a146e6
+[NotebookApp | INFO] Starting buffering for c6c19e83-cae3-487f-bc4d-71ec8d09e4c9:3d139654de1541de914da52579d9a1b0
+[NotebookApp | INFO] Kernel shutdown: c6c19e83-cae3-487f-bc4d-71ec8d09e4c9
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1): No such file or directory: 13-Objects.css
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1) 2.86ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.74ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.49ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1): No such file or directory: 13-Objects.css
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1) 1.65ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.54ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1): No such file or directory: 13-Objects.css
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1) 1.65ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | INFO] Starting buffering for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Starting buffering for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0bd26a33-8d08-45bb-9dd9-570f4c3da932) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 11ef8d70-e920-4ab0-a42e-4534cc65712e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Starting buffering for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Starting buffering for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0bd26a33-8d08-45bb-9dd9-570f4c3da932) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 11ef8d70-e920-4ab0-a42e-4534cc65712e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Kernel started: eae2ae80-70c5-4564-ac21-c141a71a9eb5
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel eae2ae80-70c5-4564-ac21-c141a71a9eb5) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for eae2ae80-70c5-4564-ac21-c141a71a9eb5:b1d4755ba1e04184aec0753a4c5bf6df
+[NotebookApp | INFO] Kernel shutdown: eae2ae80-70c5-4564-ac21-c141a71a9eb5
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.10ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1): No such file or directory: 13-Objects.css
+[NotebookApp | WARNING] 404 GET /notebooks/13-Objects.css (::1) 1.58ms referer=http://localhost:8888/notebooks/13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Starting buffering for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Starting buffering for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0bd26a33-8d08-45bb-9dd9-570f4c3da932) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 11ef8d70-e920-4ab0-a42e-4534cc65712e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Kernel started: 52af6371-459c-4fce-ab1f-f58760c85273
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 52af6371-459c-4fce-ab1f-f58760c85273) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 52af6371-459c-4fce-ab1f-f58760c85273:9f8186a107b6449ebba40ed7135f1141
+[NotebookApp | INFO] Kernel shutdown: 52af6371-459c-4fce-ab1f-f58760c85273
+[NotebookApp | INFO] Starting buffering for 0bd26a33-8d08-45bb-9dd9-570f4c3da932:5f3d98ac7d994d1a835578c4b0cff807
+[NotebookApp | INFO] Kernel shutdown: 0bd26a33-8d08-45bb-9dd9-570f4c3da932
+[NotebookApp | INFO] Starting buffering for 11ef8d70-e920-4ab0-a42e-4534cc65712e:5f5eb3db1db64e348dcafea1f47aa9ee
+[NotebookApp | INFO] Kernel shutdown: 11ef8d70-e920-4ab0-a42e-4534cc65712e
+[NotebookApp | INFO] Kernel started: a840ac12-acfd-48b4-9ddf-bc4bedb100ac
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a840ac12-acfd-48b4-9ddf-bc4bedb100ac) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for a840ac12-acfd-48b4-9ddf-bc4bedb100ac:2146a4cfd6984d698e7d5b4577946115
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a840ac12-acfd-48b4-9ddf-bc4bedb100ac) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for a840ac12-acfd-48b4-9ddf-bc4bedb100ac:2146a4cfd6984d698e7d5b4577946115
+[NotebookApp | INFO] Starting buffering for a840ac12-acfd-48b4-9ddf-bc4bedb100ac:2146a4cfd6984d698e7d5b4577946115
+[NotebookApp | INFO] Kernel shutdown: a840ac12-acfd-48b4-9ddf-bc4bedb100ac
+[NotebookApp | INFO] Kernel started: 5de20af7-5fb9-4aa4-9027-d5d6ace6cf3e
+[NotebookApp | INFO] 302 GET /notebooks/img/object.jpg (::1) 2.82ms
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5de20af7-5fb9-4aa4-9027-d5d6ace6cf3e) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: 54aae93b-5f8d-4c2b-8bff-bb1c2253cb23
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 54aae93b-5f8d-4c2b-8bff-bb1c2253cb23) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Starting buffering for 5de20af7-5fb9-4aa4-9027-d5d6ace6cf3e:e9a29b15ffb64be9a468f5f2c1b2499d
+[NotebookApp | INFO] Kernel restarted: 5de20af7-5fb9-4aa4-9027-d5d6ace6cf3e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5de20af7-5fb9-4aa4-9027-d5d6ace6cf3e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 5de20af7-5fb9-4aa4-9027-d5d6ace6cf3e:e9a29b15ffb64be9a468f5f2c1b2499d
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /13-Objects.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
+[NotebookApp | INFO] Saving file at /14-Classes.ipynb
