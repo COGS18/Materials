@@ -2204,3 +2204,54 @@
 [NotebookApp | INFO] Saving file at /16-CommandLine.ipynb
 [NotebookApp | WARNING] delete /dir_name/new_file.py
 [NotebookApp | WARNING] delete /dir_name
+[NotebookApp | INFO] Starting buffering for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | INFO] Starting buffering for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 097e2a95-0cc7-4991-8d12-9e6f5f090888) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e7758a77-0a94-4e7b-b122-6225d5dfd2ac) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Starting buffering for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Starting buffering for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e7758a77-0a94-4e7b-b122-6225d5dfd2ac) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 097e2a95-0cc7-4991-8d12-9e6f5f090888) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 4.08ms referer=http://localhost:8888/notebooks/16-CommandLine.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/16-CommandLine.css (::1): No such file or directory: 16-CommandLine.css
+[NotebookApp | WARNING] 404 GET /notebooks/16-CommandLine.css (::1) 2.91ms referer=http://localhost:8888/notebooks/16-CommandLine.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 3.25ms referer=http://localhost:8888/notebooks/15-Namespaces.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/15-Namespaces.css (::1): No such file or directory: 15-Namespaces.css
+[NotebookApp | WARNING] 404 GET /notebooks/15-Namespaces.css (::1) 1.53ms referer=http://localhost:8888/notebooks/15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.17ms referer=http://localhost:8888/notebooks/15-Namespaces.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/15-Namespaces.css (::1): No such file or directory: 15-Namespaces.css
+[NotebookApp | WARNING] 404 GET /notebooks/15-Namespaces.css (::1) 1.52ms referer=http://localhost:8888/notebooks/15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | INFO] Saving file at /16-CommandLine.ipynb
+[NotebookApp | INFO] Saving file at /16-CommandLine.ipynb
+[NotebookApp | INFO] Saving file at /16-CommandLine.ipynb
+[NotebookApp | INFO] Saving file at /16-CommandLine.ipynb
+[NotebookApp | INFO] Saving file at /16-CommandLine.ipynb
+[NotebookApp | INFO] Starting buffering for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | INFO] Starting buffering for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 097e2a95-0cc7-4991-8d12-9e6f5f090888) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e7758a77-0a94-4e7b-b122-6225d5dfd2ac) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Starting buffering for e7758a77-0a94-4e7b-b122-6225d5dfd2ac:43ac2f299563435088a9af5785cac8e0
+[NotebookApp | INFO] Kernel shutdown: e7758a77-0a94-4e7b-b122-6225d5dfd2ac
+[NotebookApp | INFO] Saving file at /15-Namespaces.ipynb
+[NotebookApp | INFO] Starting buffering for 097e2a95-0cc7-4991-8d12-9e6f5f090888:dd9e4ee5b8d64010807ea42de0f8417d
+[NotebookApp | INFO] Kernel shutdown: 097e2a95-0cc7-4991-8d12-9e6f5f090888
+[NotebookApp | WARNING] 404 DELETE /api/sessions/2f346e46-5691-4489-99f1-df3bb1538086 (::1): Session not found: session_id='2f346e46-5691-4489-99f1-df3bb1538086'
+[NotebookApp | WARNING] Session not found: session_id='2f346e46-5691-4489-99f1-df3bb1538086'
+[NotebookApp | WARNING] 404 DELETE /api/sessions/2f346e46-5691-4489-99f1-df3bb1538086 (::1) 1.46ms referer=http://localhost:8888/notebooks/15-Namespaces.ipynb
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 0 kernels
