@@ -2365,3 +2365,271 @@
 [NotebookApp | INFO] Saving file at /19-Documentation.ipynb
 [NotebookApp | INFO] Starting buffering for f9830f93-7107-4581-bebf-591cb3d518e0:96f91c335f364c40ad4e9019b347f06d
 [NotebookApp | INFO] Kernel shutdown: f9830f93-7107-4581-bebf-591cb3d518e0
+[NotebookApp | INFO] Kernel started: 5954d2ac-f5b7-4f35-8102-d14498fc3347
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5954d2ac-f5b7-4f35-8102-d14498fc3347) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: f1ee92cb-9c75-4d14-b243-df493e84b35e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f1ee92cb-9c75-4d14-b243-df493e84b35e) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for f1ee92cb-9c75-4d14-b243-df493e84b35e:1ae419221f5644cb8350a23e7b4d8ba5
+[NotebookApp | INFO] Kernel shutdown: f1ee92cb-9c75-4d14-b243-df493e84b35e
+[NotebookApp | WARNING] 404 DELETE /api/sessions/65e7959e-876d-4798-a261-8676b98386c3 (::1): Session not found: session_id='65e7959e-876d-4798-a261-8676b98386c3'
+[NotebookApp | WARNING] Session not found: session_id='65e7959e-876d-4798-a261-8676b98386c3'
+[NotebookApp | WARNING] 404 DELETE /api/sessions/65e7959e-876d-4798-a261-8676b98386c3 (::1) 1.46ms referer=http://localhost:8890/notebooks/19-OpenSource.ipynb
+[NotebookApp | INFO] Starting buffering for 5954d2ac-f5b7-4f35-8102-d14498fc3347:521927bbb3f1481887c4ba3b61c0bc98
+[NotebookApp | INFO] Kernel shutdown: 5954d2ac-f5b7-4f35-8102-d14498fc3347
+[NotebookApp | INFO] Starting buffering for abdfed77-f1f1-4cc8-a6d7-4f82a256b1f0:979390887b2d4f418fa501b2ba560833
+[NotebookApp | INFO] Kernel shutdown: abdfed77-f1f1-4cc8-a6d7-4f82a256b1f0
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/shannonellis/Desktop/Teaching/COGS18/Materials
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=9e5aac88b06ff9e7dda39a8cef02899cc6e605cc15edbd67
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=9e5aac88b06ff9e7dda39a8cef02899cc6e605cc15edbd67
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/shannonellis/Library/Jupyter/runtime/nbserver-77574-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=9e5aac88b06ff9e7dda39a8cef02899cc6e605cc15edbd67
+     or http://127.0.0.1:8888/?token=9e5aac88b06ff9e7dda39a8cef02899cc6e605cc15edbd67
+[NotebookApp | INFO] Kernel started: fbd92f74-0f09-4343-80f7-23282d55bd13
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel fbd92f74-0f09-4343-80f7-23282d55bd13) to 5.3 (client).
+[NotebookApp | INFO] Kernel started: ed3112ef-d474-4181-8b64-d6f41e91b727
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ed3112ef-d474-4181-8b64-d6f41e91b727) to 5.3 (client).
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719635 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719635 (::1) 1.12ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719638 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719638 (::1) 1.45ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | INFO] Saving file at /E2-Answers.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719641 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719641 (::1) 1.36ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719644 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719644 (::1) 1.30ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | INFO] Saving file at /E2-Answers.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /E2-Answers.ipynb
+[NotebookApp | INFO] Starting buffering for fbd92f74-0f09-4343-80f7-23282d55bd13:b52b984e31774f05bf8c0d028f4a173a
+[NotebookApp | INFO] Kernel shutdown: fbd92f74-0f09-4343-80f7-23282d55bd13
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719647 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719647 (::1) 1.13ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719650 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719650 (::1) 1.58ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | INFO] Starting buffering for ed3112ef-d474-4181-8b64-d6f41e91b727:6efc248c94dc43ec83035c70cc9ee204
+[NotebookApp | INFO] Kernel shutdown: ed3112ef-d474-4181-8b64-d6f41e91b727
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719653 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719653 (::1) 1.39ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719656 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719656 (::1) 1.01ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719659 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719659 (::1) 1.55ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719662 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719662 (::1) 1.50ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719665 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719665 (::1) 1.17ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719668 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719668 (::1) 1.54ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719671 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719671 (::1) 1.47ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719674 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719674 (::1) 1.04ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719677 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719677 (::1) 3.12ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719680 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719680 (::1) 1.02ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719683 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719683 (::1) 1.79ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719686 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719686 (::1) 1.54ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719689 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719689 (::1) 3.52ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719692 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719692 (::1) 1.57ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719695 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719695 (::1) 1.40ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719698 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719698 (::1) 1.41ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719701 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719701 (::1) 1.30ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719704 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719704 (::1) 1.37ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719707 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719707 (::1) 1.41ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719710 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719710 (::1) 1.36ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719713 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719713 (::1) 1.51ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719716 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719716 (::1) 2.12ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719719 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719719 (::1) 1.40ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719722 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719722 (::1) 1.83ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719725 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719725 (::1) 1.05ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719728 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719728 (::1) 1.15ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719731 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719731 (::1) 1.53ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719734 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719734 (::1) 1.21ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719737 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719737 (::1) 1.57ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719740 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719740 (::1) 1.29ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719743 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719743 (::1) 1.04ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719746 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719746 (::1) 1.53ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719749 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719749 (::1) 1.66ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719752 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719752 (::1) 0.99ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719755 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719755 (::1) 1.41ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719758 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719758 (::1) 1.07ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719761 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719761 (::1) 1.03ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719764 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719764 (::1) 1.02ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719767 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719767 (::1) 3.32ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719770 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719770 (::1) 5.37ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719773 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719773 (::1) 2.60ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719776 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719776 (::1) 1.61ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719779 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719779 (::1) 1.43ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719782 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719782 (::1) 1.59ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719785 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719785 (::1) 1.74ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719788 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719788 (::1) 1.46ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719791 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719791 (::1) 1.51ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719794 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719794 (::1) 1.44ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719797 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719797 (::1) 1.59ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719800 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719800 (::1) 1.07ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719803 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719803 (::1) 1.29ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719806 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719806 (::1) 0.96ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719809 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719809 (::1) 1.22ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719812 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719812 (::1) 1.44ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719815 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719815 (::1) 1.66ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719818 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719818 (::1) 1.51ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719821 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719821 (::1) 1.02ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719824 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719824 (::1) 1.64ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719827 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719827 (::1) 1.05ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719830 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719830 (::1) 1.49ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719833 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719833 (::1) 1.46ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719836 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719836 (::1) 1.17ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719839 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719839 (::1) 1.31ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719842 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719842 (::1) 1.60ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719845 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719845 (::1) 1.78ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719848 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719848 (::1) 1.46ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719851 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719851 (::1) 1.11ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719854 (::1): No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] No such file or directory: Assgn_Dev/source/A3
+[NotebookApp | WARNING] 404 GET /api/contents/Assgn_Dev/source/A3?type=directory&_=1574261719854 (::1) 1.58ms referer=http://localhost:8888/tree/Assgn_Dev/source/A3
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
