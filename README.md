@@ -8,5 +8,5 @@ Course materials for COGS18: Introduction to Python.
 
 Notes:
 - CodeProjects: two versions of this lecture are provided:
-	- *-chatbot is a shorter lecture for quarters where time is tight; builds up to a chatbot
+	- *-chatbot is a shorter lecture for quarters where time is tight; builds up to a chatbot (currently in Archive/ directory)
 	- CodeProjects is a longer version demonstrating test-driven development; builds up to atbash encryption
